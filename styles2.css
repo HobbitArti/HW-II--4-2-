@@ -1,0 +1,47 @@
+body {
+    font-size: 24px;
+}
+p.text1 {
+    color: red;
+}
+p.red {
+    color: red;
+}
+p.italic {
+    font-style: italic;
+}
+p.bold {
+    font-weight: bold;
+}
+li.red {
+    color: red;
+}
+li.text1 {
+    color:brown
+}
+li.text2 {
+    color: blueviolet;
+}li.text3 {
+    color: gray;
+}
+span.slovo1 {
+    font-size: 40px;
+}
+span.xsmall {
+    font-size: 20px;
+}
+span.small {
+    font-size: 10px;
+}
+span.medium {
+    font-size: 25px;
+}
+span.large {
+    font-size: 37px;
+}
+span.xlarge {
+    font-size: 35px;
+}
+span.xxlarge {
+    font-size: 27px;
+}
